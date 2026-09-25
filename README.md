@@ -1,6 +1,8 @@
 # 🚀 Projeto ERP Universal - Inteligência de Negócios e Governança Corporativa
 <img width="1634" height="704" alt="ERP_Multifuncional_1_CEO_Industrial" src="https://github.com/user-attachments/assets/c8792f39-b4c5-4931-be81-cca70bfa7ad3" />
 
+
+
 Este repositório contém a documentação de arquitetura de um **ERP Multifuncional** integrado a uma solução avançada de Business Intelligence no Power BI. O sistema foi projetado para centralizar as operações e unificar a tomada de decisão em três grandes pilares de mercado: **Industrial, Varejo e Serviço**.
 
 O core business inicial do projeto é uma **indústria de pão de queijo** focada em expansão escalável.
