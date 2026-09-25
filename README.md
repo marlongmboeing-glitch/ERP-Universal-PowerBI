@@ -21,7 +21,7 @@ Em janeiro de 2026, a empresa implementou uma transformação radical: a **autom
 
 ## 🛡️ Inteligência Fiscal e Transição de Regime (MEI para ME)
 
-O ERP Universal foi programado para monitorar a saúde tributária da empresa em todas as frentes. O modelo de dados prevê e executes a **mudança automatizada de MEI para ME (Microempresa)** no Simples Nacional. 
+O ERP Universal foi programado para monitorar a saúde tributária da empresa em todas as frentes. O modelo de dados prevê e executa a **mudança automatizada de MEI para ME (Microempresa)** no Simples Nacional. 
 
 Através de motores de cálculo dinâmicos em DAX, o sistema cruza o faturamento acumulado e dispara alarmes visuais automáticos:
 * **Em 2025:** O painel manteve o status de conformidade dentro do teto de R\$ 81 mil.
@@ -62,10 +62,11 @@ Através de motores de cálculo dinâmicos em DAX, o sistema cruza o faturamento
        ▼
 [ 5. ENTREGA EXECUTIVA (Dashboard Front-End) ]
        │
-       ├── 📊 Gráficos por Regional de Faturamento
        ├── 📉 Cartão de Faturamento Realizado (265,68 K)
        ├── 🛡️ Alerta de Saldo Fiscal Restante (4,53 Mi)
-       └── 🧠 Matriz Consultiva Inteligente (Status de Meta)
+       ├── 🧠 Matriz Consultiva Inteligente (Status de Meta)
+       └── 🟢 Sinalizador de Conformidade do Regime Tributário
+
 ```
 
 ## 🧠 Tomada de Decisão Baseada em Dados: A Matriz Consultiva
